@@ -1,0 +1,25 @@
+# Lazy.nvim lock file
+lazy-lock.json
+
+# Plugin directory (managed by lazy.nvim)
+plugin/
+
+# Lua LSP config (auto-generated)
+.luarc.json
+
+# Neovim runtime data (shada, swap, lazy downloads, etc.)
+# nvim-data is at ../nvim-data, outside this repo, but ignore it defensively
+nvim-data/
+
+# LazyVim generated
+.neoconf.json
+
+# Test/debug artifacts
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
