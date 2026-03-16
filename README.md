@@ -79,6 +79,6 @@ nvim/
 
 ## Screenshots
 
-![Dashboard](./screenshots/dashboard.png)
-![Editor](./screenshots/editor.png)
-![Telescope](./screenshots/telescope.png)
+![Dashboard](./screenshots/dashboard.PNG)
+![Editor](./screenshots/editor.PNG)
+![Telescope](./screenshots/telescope.PNG)
